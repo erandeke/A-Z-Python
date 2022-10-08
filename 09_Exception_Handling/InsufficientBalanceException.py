@@ -1,4 +1,4 @@
-# Write a program to use UseDefinedExceptions
+# Write a program to use UserDefinedExceptions
 
 
 class InsufficientBalanceException(Exception):
