@@ -1,0 +1,2 @@
+Hi.. let's write to the file
+Woah .. i can see some text
